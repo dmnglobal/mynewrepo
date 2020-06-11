@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<!DOCTYPE SCH-Config SYSTEM "SCH-Config.dtd">
+
+<SCH-Config componentPort="6010" componentName="SCH" serviceManagerName="SM" rmiRegistryPort="1099" evaluationManagerName="EM" edrGenerationManagerName="EGM" rdbCommunicatorName="RDBC" connectionId="10" sdpName="SDPTB1"/>

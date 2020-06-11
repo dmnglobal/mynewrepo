@@ -1,0 +1,10 @@
+<!ELEMENT SCH-Config EMPTY>
+<!ATTLIST SCH-Config componentName CDATA #REQUIRED>
+<!ATTLIST SCH-Config componentPort CDATA #REQUIRED>
+<!ATTLIST SCH-Config rmiRegistryPort CDATA #REQUIRED>
+<!ATTLIST SCH-Config serviceManagerName CDATA #REQUIRED>
+<!ATTLIST SCH-Config evaluationManagerName CDATA #REQUIRED>
+<!ATTLIST SCH-Config edrGenerationManagerName CDATA #REQUIRED>
+<!ATTLIST SCH-Config rdbCommunicatorName CDATA #REQUIRED>
+<!ATTLIST SCH-Config connectionId CDATA #REQUIRED>
+<!ATTLIST SCH-Config sdpName CDATA #REQUIRED>
